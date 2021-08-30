@@ -215,24 +215,26 @@
     ]
   },
   "packageFolders": {
-    "/home/navi/.nuget/packages/": {}
+    "C:\\Users\\Luis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/navi/repos/kafka-sandbox/backend/backend.csproj",
+      "projectUniqueName": "C:\\Users\\Luis\\code\\RESUME\\GROUP PROJECTS\\kafka-sandbox\\backend\\backend.csproj",
       "projectName": "backend",
-      "projectPath": "/home/navi/repos/kafka-sandbox/backend/backend.csproj",
-      "packagesPath": "/home/navi/.nuget/packages/",
-      "outputPath": "/home/navi/repos/kafka-sandbox/backend/obj/",
+      "projectPath": "C:\\Users\\Luis\\code\\RESUME\\GROUP PROJECTS\\kafka-sandbox\\backend\\backend.csproj",
+      "packagesPath": "C:\\Users\\Luis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Luis\\code\\RESUME\\GROUP PROJECTS\\kafka-sandbox\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/navi/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -271,7 +273,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
