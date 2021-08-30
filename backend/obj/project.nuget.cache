@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mXN15GvpG30HYJ00HICRD45NgeTXAETM/+SIPGkkeGz7aqiwStgjEdrC178qWwUPGOj6JbOMOQ5XjjmU9HxoXw==",
+  "success": true,
+  "projectFilePath": "/home/navi/repos/kafka-sandbox/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/home/navi/.nuget/packages/confluent.kafka/1.7.0/confluent.kafka.1.7.0.nupkg.sha512",
+    "/home/navi/.nuget/packages/librdkafka.redist/1.7.0/librdkafka.redist.1.7.0.nupkg.sha512",
+    "/home/navi/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
