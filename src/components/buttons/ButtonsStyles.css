@@ -1,0 +1,47 @@
+.buttonWrapper {
+    /* width: 100%; */
+    position: relative;
+    max-width: 50rem;
+    margin: 0 auto;
+}
+
+.buttonCardWrapper {
+    position: relative;
+    /* width: 70rem; */
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.buttonCard {
+    border: 1px lightgreen solid;
+    border-radius: 8px;
+    padding: 20px 24px;
+    background-color: rgb(241, 244, 246);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.buttonCard > div {
+    margin-bottom: 10px;
+}
+
+.buttonCard > button {
+    transition: all .3s ease;
+    cursor: pointer;
+    /* border: none; */
+    border: 1px solid lightgreen;
+    display: inline-block;
+    padding: 10px 15px;
+    text-decoration: none;
+    background-color: lightblue;
+    margin-top: 10px;
+    
+}
+
+.buttonCard > button:focus {
+    outline: none;
+}
+.buttonCard > button:hover {
+    border: 1px solid lightblue;
+    background-color: lightgreen;
+}
