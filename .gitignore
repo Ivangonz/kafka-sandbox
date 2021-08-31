@@ -24,31 +24,30 @@ yarn-error.log*
 
 # From .NET Core 3.0 you can use the command: `dotnet new gitignore` to generate a customizable .gitignore file
 
-/backend/*.swp
-/backend/*.*~
-/backend/project.lock.json
-/backend/.DS_Store
-/backend/*.pyc
+**/*.swp
+**/*.*~
+**/project.lock.json
+**/.DS_Store
 
-/backend/.vscode
-
-/backend/*.suo
-/backend/*.user
-/backend/*.userosscache
-/backend/*.sln.docstates
-
-/backend/[Dd]ebug/
-/backend/[Dd]ebugPublic/
-/backend/[Rr]elease/
-/backend/[Rr]eleases/
-/backend/x64/
-/backend/x86/
-/backend/build/
-/backend/bld/
-/backend/[Bb]in/
-/backend/[Oo]bj/
-/backend/msbuild.log
-/backend/msbuild.err
-/backend/msbuild.wrn
+**/*.suo
+**/*.user
+**/*.userosscache
+**/*.sln.do**
+**/[Dd]ebug/
+**/[Dd]ebugPublic/
+**/[Rr]elease/
+**/[Rr]eleases/
+**/x64/
+**/x86/
+**/build/
+**/bld/
+**/[Bb]in/
+**/[Oo]bj/
+**/msbuild.log
+**/msbuild.err
+**/msbuild.wrn
 
 /backend/.vs/
+
+**/.idea
+**/.vs/
